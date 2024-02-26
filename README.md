@@ -4,9 +4,12 @@ This project is a fully responsive admin dashboard template built with React, Ta
 
 **<h2>Features</h1>**
 <ol>
-  <li>
-    <span style='font-weight:bold'>Modern Design</span> <span>Utilizing Tailwind CSS for a sleek, modern look and feel that's fully responsive.</span>
-  </li>
+  <li>Modern Design: Utilizing Tailwind CSS for a sleek, modern look and feel that's fully responsive.
+</li>
+  <li>Rich UI Components: Leverages Syncfusion for React to provide rich UI components for data visualization, calendars, and more.
+</li>
+  <li>Highly Customizable: Easy to customize components and layouts to fit your specific needs.
+</li>
 </ol>
 
 
